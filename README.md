@@ -1,4 +1,4 @@
-# docker-kderuntime
+# docker-kde-runtime
 [![](https://badge.imagelayers.io/silvavlis/kde-runtime:latest.svg)](https://imagelayers.io/?images=silvavlis/kde-runtime:latest 'Get your own badge on imagelayers.io')
 Docker image with KDE runtime components required by KDE applications (Digikam, Okular, Amarok...).
 
